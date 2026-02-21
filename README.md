@@ -1,4 +1,4 @@
-# Hi, I'm Elizabeth Njuguna 👋
+## Hi 👋
 
 I'm a Junior Software Developer based in Nairobi, Kenya 🇰🇪, passionate about building full-stack web applications that solve real problems. 
 I'm currently learning django
