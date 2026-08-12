@@ -1,6 +1,7 @@
 ## Hi 👋
 
-I'm a Junior Software Developer based in Nairobi, Kenya 🇰🇪, passionate about building full-stack web applications that solve real problems. portfolio-elizabeth-njuguna.vercel.app/
+## Hi 👋
+I'm a Junior Software Developer based in Nairobi, Kenya 🇰🇪, passionate about building full-stack web applications that solve real problems. [Check out my portfolio →](https://portfolio-elizabeth-njuguna.vercel.app/)
 
 ---
 
